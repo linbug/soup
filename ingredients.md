@@ -6,3 +6,6 @@
 - wind
 - GRASS
 - soil
+- sugar 
+- potato
+- shampoo 
