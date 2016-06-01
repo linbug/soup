@@ -6,3 +6,6 @@
 - wind
 - GRASS
 - soil
+- sunflower seeds
+- joy and happiness
+- eyelashes
